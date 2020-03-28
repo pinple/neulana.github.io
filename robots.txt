@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://neulana.github.io/sitemap.xml
