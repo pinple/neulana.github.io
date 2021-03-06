@@ -16,6 +16,13 @@
   </url>
   
   <url>
+    <loc>https://neulana.github.io/</loc>
+    <lastmod>2019-10-26T22:40:07+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://neulana.github.io/post/</loc>
     <lastmod>2019-10-26T22:40:07+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -38,13 +45,6 @@
   
   <url>
     <loc>https://neulana.github.io/tags/%E7%90%86%E8%B4%A2/</loc>
-    <lastmod>2019-10-26T22:40:07+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://neulana.github.io/</loc>
     <lastmod>2019-10-26T22:40:07+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
