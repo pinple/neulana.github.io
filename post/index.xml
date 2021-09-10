@@ -6,14 +6,32 @@
     <description>Recent content in Posts on Pinple&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 26 Oct 2019 22:40:07 +0800</lastBuildDate><atom:link href="https://neulana.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Sep 2021 00:10:32 +0800</lastBuildDate><atom:link href="https://neulana.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>对过去和未来的一点思考</title>
+      <link>https://neulana.github.io/post/the-past-and-the-future/</link>
+      <pubDate>Sat, 11 Sep 2021 00:10:32 +0800</pubDate>
+      
+      <guid>https://neulana.github.io/post/the-past-and-the-future/</guid>
+      <description>8月参加了年中晋升答辩，上周通知晋升成功，前两天沟通薪资调整情况，这效率杠杠的。今天工资发下来那一刻我还是比较满意的。为这一刻我努力了4年，</description>
+    </item>
+    
+    <item>
+      <title>Pytest入门指南</title>
+      <link>https://neulana.github.io/post/pytest-learning/</link>
+      <pubDate>Sat, 06 Mar 2021 18:32:37 +0800</pubDate>
+      
+      <guid>https://neulana.github.io/post/pytest-learning/</guid>
+      <description>pytest的优点 详细的断言失败信息； 自动发现测试模块、函数；</description>
+    </item>
+    
     <item>
       <title>如何在理财中胜出</title>
       <link>https://neulana.github.io/post/rational-investment/</link>
       <pubDate>Sat, 26 Oct 2019 22:40:07 +0800</pubDate>
       
       <guid>https://neulana.github.io/post/rational-investment/</guid>
-      <description>最近看了几本关于理财的书——《小狗钱钱》《周期》《财务自由之路》、《富爸爸穷爸爸》，结合这一年短暂的理财经验，总结出一些自己的思考。 相信很多</description>
+      <description>大多数人是如何亏钱的？ 最近看了几本关于理财的书——《小狗钱钱》《周期》《财务自由之路》、《富爸爸穷爸爸》，结合这一年短暂的理财经验，总结出一</description>
     </item>
     
     <item>
